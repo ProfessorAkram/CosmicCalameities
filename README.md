@@ -1,3 +1,3 @@
 # CosmicCalameities
-Test
-[My Awesome Wiki](../../wiki)
+
+[Concept Document](../../wiki)
